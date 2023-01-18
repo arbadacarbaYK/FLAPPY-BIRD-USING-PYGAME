@@ -6,3 +6,4 @@
 <p align="center"> <b> 👉🏻 Created Flappy Bird Game Using PyGame 👈🏻 <b> </p>
  
 <p align="center"><a href='https://github.com/Amey-Thakur/FLAPPY-BIRD-USING-PYGAME', style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</p>
+  
